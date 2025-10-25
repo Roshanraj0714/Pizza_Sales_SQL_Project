@@ -61,6 +61,6 @@ The backbone of the project — used for extracting, cleaning, transforming, and
 
 📄 **PDF Report**  
 Contains screenshots of executed queries and a summarized analysis of the project outcomes, providing a visual overview of the findings.  
-
+[Pizza_Sales]()
 🧠 **Analytical Approach**  
 Every query in this project follows a logical analytical pattern — identifying trends, calculating aggregates, and drawing business insights through SQL logic.
